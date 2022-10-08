@@ -1,0 +1,28 @@
+.footer {
+
+    height: 124px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer h1{
+    font-size: 14px;
+    text-align: center;
+}
+
+.contact {
+    display: grid;
+    gap: 10px
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    padding: 0 10px 0 10px;
+}
+
+.phone h1 {
+    padding: 0 0 0 5px;
+}
