@@ -1,0 +1,12 @@
+.intro h1 {
+    font-size: 23px;
+    text-align: center;
+    padding: 40px 15px 15px 15px;
+}
+
+.nbrgroups {
+    display: grid;
+    gap: 10px;
+    flex-direction: column;
+    padding: 50px;
+}

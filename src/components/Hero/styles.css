@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 42px;
+}
+
+.cover {
+    color: white;
+    height: 412px;
+    min-width:100vw;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    padding:0 0 30px 16px;
+    background-image: url("./images/img1.png");
+}
+
+.container h1 {
+    font-size: 20px;
+}
+
+.container h2 {
+    font-size: 15px;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description {
+    padding: 32px;
+    text-align: center;
+}
