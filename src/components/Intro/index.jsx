@@ -1,4 +1,5 @@
 import NbrCard from '../NbrCard';
+import MediaCard from '../MediaCard';
 import React from 'react';
 
 import './styles.css';
@@ -17,7 +18,12 @@ export default function Intro() {
                     <NbrCard/>
                     <NbrCard/>
                     <NbrCard/>
-                </div>        
+                </div>    
+                <div className="cards">
+                    <MediaCard/>
+                    <MediaCard/>
+                    <MediaCard/>
+                </div>    
             </div>
 
         </section>

@@ -9,6 +9,7 @@ export default function Hero() {
        <div className="container">
             <div className="cover">
                 <div className="content">
+                    <img src="../public/assets/vector1.svg" alt="" />
                     <h1>E-leva Credito</h1>
                     <h2>Subtitle Ipsum</h2>
                 </div>
