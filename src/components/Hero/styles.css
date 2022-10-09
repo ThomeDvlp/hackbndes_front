@@ -1,3 +1,14 @@
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 10px;
+}
+
+.logo img{
+    padding-bottom: 140px;
+}
 .container {
     display: flex;
     flex-direction: column;
@@ -9,7 +20,7 @@
 
 .cover {
     color: white;
-    height: 412px;
+    height: 300px;
     min-width:100vw;
     display: flex;
     align-items: flex-end;
@@ -19,7 +30,7 @@
     background-repeat: no-repeat;
     object-fit: 100%;
     padding:0 0 30px 16px;
-    background-image: url("./images/img1.png");
+    background-image: url("./images/luisa.png");
 }
 
 .container h1 {
@@ -39,4 +50,8 @@
 .description {
     padding: 32px;
     text-align: center;
+}
+
+.bndes {
+    padding: 40px 0 0 0;
 }
