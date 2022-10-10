@@ -12,6 +12,11 @@ Integrantes:
 
 
 Instruções: 
+
+acesse na rede via: https://evamicrocredito.netlify.app/
+ 
+ou localmente seguindo esses passos: 
+
 - clone localmente o repositório
 - execute o comando yarn install para construir localemte a aplicação
 - excute o comando yarn dev para rodar localmente
