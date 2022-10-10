@@ -20,7 +20,7 @@ export default function Hero() {
             <div className="action">
                 <div className="description">
                     <h1>
-                    ✈️ <br/> Impulsionamos mulheres de todos os perfis a melhorar a experiência feminina do turismo no Brasil :flag-br
+                    ✈️ <br/> Impulsionamos mulheres de todos os perfis a melhorar a experiência feminina do turismo no Brasil
                     </h1>
                 </div>
                 <div>
