@@ -9,7 +9,7 @@ export default function Hero() {
        <div className="container">
             <div className="cover">
                 <div className="logo">
-                    <img src="../assets/logovector.svg" alt="" />
+                    <img src="../public/assets/logovector.svg" alt="" />
                     <div className="content">
                         <h1>Maria</h1>
                         <h2>Empreendedora Lençóis Maranhenses</h2>
@@ -36,7 +36,7 @@ export default function Hero() {
                 <h2>
                     Em parceria com 
                 </h2>
-                <img src="../assets/bndes.svg" alt="logo BNDES" />
+                <img src="../public/assets/bndes.svg" alt="logo BNDES" />
             </div>
        </div>
     </section>

@@ -71,7 +71,7 @@ export default function Intro() {
                         <CardMedia
                             component="img"
                             height="140"
-                            image="../images/iniciante.png"
+                            image="../public/images/iniciante.png"
                             alt="mulheres pegando peixes"
                         />
                         <CardContent>
@@ -92,7 +92,7 @@ export default function Intro() {
                         <CardMedia
                             component="img"
                             height="140"
-                            image="../images/profi.png"
+                            image="../public/images/profi.png"
                             alt="mulher feliz sorrindo"
                         />
                         <CardContent>
@@ -113,7 +113,7 @@ export default function Intro() {
                         <CardMedia
                             component="img"
                             height="140"
-                            image="../images/climb.png"
+                            image="../public/images/climb.png"
                             alt="mulheres chegando ao topo da montonha ao entardecer"
                         />
                         <CardContent>
