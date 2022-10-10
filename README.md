@@ -11,6 +11,12 @@ Integrantes:
 - Roberto Thomé [Desenvolvedor]
 
 
+Instruções: 
+- clone localmente o repositório
+- execute o comando yarn install para construir localemte a aplicação
+- excute o comando yarn dev para rodar localmente
+- este site foi fotmatado para visualizaão em celular
+
 
 ## Dados
 
